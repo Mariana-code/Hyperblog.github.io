@@ -1,10 +1,2 @@
-Hola
-
-si, cuyo
-4 cuyos
-Sushi Samoyedo
-puto
-Juan es puto
-pilin
-
-Mariana 
+Proyecto 1
+Desarrollo de una pagina web con html y css
