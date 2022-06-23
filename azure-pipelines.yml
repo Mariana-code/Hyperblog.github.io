@@ -25,7 +25,6 @@ steps:
           echo 'Hello world from the Task assistant!'
   displayName: 'Run a multi-line script'
   
-  # - template: azure-pipelines-windows-yml
-  #- powershell: echo $env:MYSECRET
-  #env:
-  #  MySecret: $(mySecret))
+- powershell: echo $env:MYSECRET
+  env:
+    MySecret: $(Foo)
